@@ -1,0 +1,36 @@
+=== WaveletFusion 8-level – Validation report ===
+              precision    recall  f1-score   support
+
+      glioma     0.8904    0.9371    0.9131       286
+  meningioma     0.9023    0.7462    0.8168       260
+     notumor     0.9649    0.9857    0.9752       279
+   pituitary     0.9060    0.9797    0.9414       295
+
+    accuracy                         0.9161      1120
+   macro avg     0.9159    0.9121    0.9116      1120
+weighted avg     0.9158    0.9161    0.9137      1120
+
+
+=== WaveletFusion 8-level – Validation AUC ===
+Val AUC: 0.9871
+Val AUC Macro OvR: 0.9871
+Val AUC Weighted OvR: 0.9875
+
+
+=== WaveletFusion 8-level – Test report ===
+              precision    recall  f1-score   support
+
+      glioma     0.8899    0.7275    0.8006       400
+  meningioma     0.8520    0.6475    0.7358       400
+     notumor     0.8172    0.9950    0.8974       400
+   pituitary     0.8154    0.9825    0.8912       400
+
+    accuracy                         0.8381      1600
+   macro avg     0.8436    0.8381    0.8312      1600
+weighted avg     0.8436    0.8381    0.8312      1600
+
+
+=== WaveletFusion 8-level – Test AUC ===
+Test AUC: 0.9670
+Test AUC Macro OvR: 0.9670
+Test AUC Weighted OvR: 0.9670

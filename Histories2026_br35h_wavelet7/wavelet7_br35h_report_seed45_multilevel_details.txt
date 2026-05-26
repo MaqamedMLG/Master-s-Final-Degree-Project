@@ -1,0 +1,32 @@
+=== WaveletFusion 7-level Br35H – Validation report ===
+              precision    recall  f1-score   support
+
+          no     0.9673    0.9834    0.9753       241
+         yes     0.9831    0.9667    0.9748       240
+
+    accuracy                         0.9751       481
+   macro avg     0.9752    0.9750    0.9750       481
+weighted avg     0.9752    0.9751    0.9750       481
+
+
+=== WaveletFusion 7-level Br35H – Validation AUC ===
+Val AUC: 0.9960
+Val AUC Macro OvR: 0.9960
+Val AUC Weighted OvR: 0.9960
+
+
+=== WaveletFusion 7-level Br35H – Test report ===
+              precision    recall  f1-score   support
+
+          no     0.9581    0.9900    0.9738       300
+         yes     0.9897    0.9568    0.9730       301
+
+    accuracy                         0.9734       601
+   macro avg     0.9739    0.9734    0.9734       601
+weighted avg     0.9739    0.9734    0.9734       601
+
+
+=== WaveletFusion 7-level Br35H – Test AUC ===
+Test AUC: 0.9955
+Test AUC Macro OvR: 0.9955
+Test AUC Weighted OvR: 0.9955

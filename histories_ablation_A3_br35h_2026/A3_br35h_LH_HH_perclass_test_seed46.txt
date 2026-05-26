@@ -1,0 +1,3 @@
+class  precision  recall(sensitivity)  specificity  f1_score  support
+   no   0.924138             0.893333     0.926910  0.908475      300
+  yes   0.897106             0.926910     0.893333  0.911765      301

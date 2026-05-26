@@ -1,0 +1,24 @@
+=== Validation report ===
+              precision    recall  f1-score   support
+
+      glioma     0.6152    0.8869    0.7265       274
+  meningioma     0.7323    0.3419    0.4662       272
+     notumor     0.9123    0.8874    0.8997       293
+   pituitary     0.8403    0.9359    0.8855       281
+
+    accuracy                         0.7670      1120
+   macro avg     0.7750    0.7630    0.7444      1120
+weighted avg     0.7778    0.7670    0.7485      1120
+
+
+=== Test report ===
+              precision    recall  f1-score   support
+
+      glioma     0.5708    0.6850    0.6227       400
+  meningioma     0.6716    0.2250    0.3371       400
+     notumor     0.7460    0.9325    0.8289       400
+   pituitary     0.7716    0.9375    0.8465       400
+
+    accuracy                         0.6950      1600
+   macro avg     0.6900    0.6950    0.6588      1600
+weighted avg     0.6900    0.6950    0.6588      1600

@@ -1,0 +1,20 @@
+=== Validation report ===
+              precision    recall  f1-score   support
+
+          no     0.9095    0.9170    0.9132       241
+         yes     0.9160    0.9083    0.9121       240
+
+    accuracy                         0.9127       481
+   macro avg     0.9127    0.9127    0.9127       481
+weighted avg     0.9127    0.9127    0.9127       481
+
+
+=== Test report ===
+              precision    recall  f1-score   support
+
+          no     0.9241    0.8933    0.9085       300
+         yes     0.8971    0.9269    0.9118       301
+
+    accuracy                         0.9101       601
+   macro avg     0.9106    0.9101    0.9101       601
+weighted avg     0.9106    0.9101    0.9101       601

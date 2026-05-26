@@ -1,0 +1,36 @@
+=== Baseline CNN – Validation report ===
+              precision    recall  f1-score   support
+
+      glioma     0.9209    0.8421    0.8797       304
+  meningioma     0.8019    0.6415    0.7128       265
+     notumor     0.9220    0.9477    0.9347       287
+   pituitary     0.7761    0.9848    0.8681       264
+
+    accuracy                         0.8554      1120
+   macro avg     0.8552    0.8540    0.8488      1120
+weighted avg     0.8589    0.8554    0.8516      1120
+
+
+=== Baseline CNN – Validation AUC ===
+Val AUC: 0.9746
+Val AUC Macro OvR: 0.9746
+Val AUC Weighted OvR: 0.9752
+
+
+=== Baseline CNN – Test report ===
+              precision    recall  f1-score   support
+
+      glioma     0.9191    0.6250    0.7440       400
+  meningioma     0.7405    0.5350    0.6212       400
+     notumor     0.8137    0.9825    0.8901       400
+   pituitary     0.6978    0.9700    0.8117       400
+
+    accuracy                         0.7781      1600
+   macro avg     0.7928    0.7781    0.7668      1600
+weighted avg     0.7928    0.7781    0.7668      1600
+
+
+=== Baseline CNN – Test AUC ===
+Test AUC: 0.9411
+Test AUC Macro OvR: 0.9411
+Test AUC Weighted OvR: 0.9411

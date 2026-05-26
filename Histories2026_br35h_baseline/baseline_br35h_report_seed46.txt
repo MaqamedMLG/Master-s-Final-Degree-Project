@@ -1,0 +1,32 @@
+=== Baseline CNN Br35H – Validation report ===
+              precision    recall  f1-score   support
+
+          no     0.9873    0.6432    0.7789       241
+         yes     0.7346    0.9917    0.8440       240
+
+    accuracy                         0.8170       481
+   macro avg     0.8609    0.8174    0.8114       481
+weighted avg     0.8612    0.8170    0.8114       481
+
+
+=== Baseline CNN Br35H – Validation AUC ===
+Val AUC: 0.9592
+Val AUC Macro OvR: 0.9592
+Val AUC Weighted OvR: 0.9592
+
+
+=== Baseline CNN Br35H – Test report ===
+              precision    recall  f1-score   support
+
+          no     0.9554    0.6433    0.7689       300
+         yes     0.7318    0.9701    0.8343       301
+
+    accuracy                         0.8070       601
+   macro avg     0.8436    0.8067    0.8016       601
+weighted avg     0.8435    0.8070    0.8017       601
+
+
+=== Baseline CNN Br35H – Test AUC ===
+Test AUC: 0.9408
+Test AUC Macro OvR: 0.9408
+Test AUC Weighted OvR: 0.9408

@@ -1,0 +1,5 @@
+     class  precision  recall(sensitivity)  specificity  f1_score  support
+    glioma   0.564682               0.6875     0.823333  0.620068      400
+meningioma   0.658730               0.2075     0.964167  0.315589      400
+   notumor   0.788636               0.8675     0.922500  0.826190      400
+ pituitary   0.702011               0.9600     0.864167  0.810982      400
